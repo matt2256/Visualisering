@@ -1,0 +1,75 @@
+h1 {
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+}
+
+h3 {
+    text-align: center;
+    margin: 0;
+}
+
+.Border {
+    border: 1px solid black;
+
+
+    
+}
+
+header {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p, li {
+    box-sizing: border-box;
+    margin: 0px;
+    text-align: left;
+    padding: 5px 5px;
+    font-size: 15px;
+    margin: 0;
+}
+
+.color {
+    border: 1px solid black;
+    box-sizing: border-box;
+    line-height:15px;
+    display: inline-block;
+    max-height: 200px;
+    width: 25%;
+    max-width: 330px;
+}
+
+.Hex {
+    border: 1px solid black;
+    box-sizing: border-box;
+    line-height:15px;
+    display: inline-block;
+    max-height: 200px;
+    width: 25%;
+    max-width: 330px;
+}
+
+.Rgb {
+    border: 1px solid black;
+    box-sizing: border-box;
+    line-height:15px;
+    display: inline-block;
+    max-height: 200px;
+    width: 25%;
+    max-width: 330px;
+}
+
+.Hsl {
+    border: 1px solid black;
+    box-sizing: border-box;
+    line-height:15px;
+    display: inline-block; 
+    max-height: 200px;
+    width:  25%;
+    max-width: 330px;
+}
