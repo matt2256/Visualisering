@@ -1,0 +1,19 @@
+html{
+    background-color: white;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#Søgefelt{
+    border: 3px solid grey;
+    border-radius: 20%;
+}
+
+main {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
