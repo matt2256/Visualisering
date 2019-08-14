@@ -81,7 +81,7 @@ p, li {
     width:  25%;
     max-width: 330px;
 }
-/* Rød farve */ 
+/* Red Color */ 
 .LightRedHue {
     background-color: hsl(0, 100%, 75%);
     width: 20px;
@@ -95,6 +95,25 @@ p, li {
 }
 
 .DarkRedHue {
+    background-color: hsl(0, 100%, 25%);
+    width: 20px;
+    height: 20px;
+}
+
+/* Blue Color*/
+.LightBlueHue {
+    background-color: hsl(0, 100%, 75%);
+    width: 20px;
+    height: 20px;
+}
+
+.BlueHue {
+    background-color: hsl(0, 100%, 50%);
+    width: 20px;
+    height: 20px;
+}
+
+.DarkBlueHue {
     background-color: hsl(0, 100%, 25%);
     width: 20px;
     height: 20px;
