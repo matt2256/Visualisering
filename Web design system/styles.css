@@ -83,19 +83,19 @@ p, li {
 }
 /* Rød farve */ 
 .LightRedHue {
-    background-color: hsl(0, 100, 75);
+    background-color: hsl(0, 100%, 75%);
     width: 20px;
     height: 20px;
 }
 
 .RedHue {
-    background-color: hsl(0, 100, 50);
+    background-color: hsl(0, 100%, 50%);
     width: 20px;
     height: 20px;
 }
 
 .DarkRedHue {
-    background-color: hsl(0, 100, 25);
+    background-color: hsl(0, 100%, 25%);
     width: 20px;
     height: 20px;
 }
